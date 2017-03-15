@@ -28,3 +28,7 @@ node search.js main main/search_index.json
 Upload all files in the `main` folder and favicon.ico.
 
 Have fun!.
+
+# Thanks
+
+@zohead Provided the search.js script.
