@@ -31,4 +31,4 @@ Have fun!.
 
 # Thanks
 
-@zohead Provided the search.js script.
+[@zohead](https://github.com/zohead) Provided the search.js script.
